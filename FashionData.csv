@@ -1,0 +1,551 @@
+Post_id,Fashion Brand,Instagram Handle,Customer Feedback,Date,Location,Hashtag,Sentiment
+1,Zara,@zaraofficial,Love the new collection! ??,5/10/2020,"London, UK",#Fashion #Style,Positive
+2,H&M,@hm,The quality is so poor. ??,11/15/2019,"Manchester, UK",#Disappointed,Negative
+3,Burberry,@burberry,Neutral designs.,8/22/2022,"Birmingham, UK",#Classic,Neutral
+4,ASOS,@asos,Amazing deals on the website! ???,6/5/2021,"Glasgow, UK",#Sale #Fashion,Positive
+5,Topshop,@topshop,Not as trendy as before.,1/17/2023,"Edinburgh, UK",#VintageVibes,Negative
+6,Primark,@primark,Affordable and stylish!,4/12/2022,"London, UK",#BudgetFashion,Positive
+7,Gucci,@gucci,Exquisite craftsmanship.,9/30/2020,"London, UK",#Luxury #Fashion,Positive
+8,Boohoo,@boohoo,Terrible customer service. ??,12/8/2021,"Liverpool, UK",#Avoid,Negative
+9,River Island,@riverisland,Meh.,5/20/2023,"Bristol, UK",#Casual #Style,Neutral
+10,Missguided,@missguided,In love with their dresses! ??,11/2/2022,"Leeds, UK",#PartyWear #Fashion,Positive
+11,Adidas,@adidas,Their shoes never disappoint! ??,8/17/2021,"London, UK",#Sportswear #Footwear,Positive
+12,New Look,@newlook,Affordable and trendy options.,3/25/2020,"Birmingham, UK",#BudgetFashion,Positive
+13,Balenciaga,@balenciaga,Unimpressed with the latest collection.,2/10/2023,"Manchester, UK",#HighFashion,Negative
+14,Primark,@primark,Great place for basics.,7/4/2022,"Edinburgh, UK",#Essentials,Positive
+15,Burberry,@burberry,Classic and elegant designs.,4/30/2021,"Glasgow, UK",#Timeless,Positive
+16,ASOS,@asos,Slow shipping times. ??,11/20/2020,"London, UK",#ShippingIssues,Negative
+17,Topman,@topman,Lacking variety in men's collection.,6/15/2023,"Leeds, UK",#MensFashion,Neutral
+18,Gucci,@gucci,Overpriced for what you get.,9/12/2019,"London, UK",#Luxury,Negative
+19,Missguided,@missguided,Cute and affordable dresses!,2/5/2022,"Bristol, UK",#AffordableStyle,Positive
+20,Zara,@zaraofficial,Quality has gone downhill.,4/18/2023,"Liverpool, UK",#Disappointed,Negative
+21,Boohoo,@boohoo,Stylish and budget-friendly.,7/22/2021,"Manchester, UK",#FashionOnABudget,Positive
+22,Nike,@nike,Always the best for activewear.,12/9/2020,"Birmingham, UK",#Athleisure,Positive
+23,H&M,@hm,Sustainable fashion efforts are commendable.,9/28/2022,"London, UK",#Sustainability,Positive
+24,River Island,@riverisland,Meh.,3/7/2023,"Glasgow, UK",#Casual,Neutral
+25,Versace,@versace,Exquisite and luxurious.,11/5/2019,"Edinburgh, UK",#LuxuryFashion,Positive
+26,Uniqlo,@uniqlo,Where's the innovation?,1/30/2021,"Manchester, UK",#BasicApparel,Neutral
+27,Mango,@mango,Disappointed with the latest collection.,5/12/2022,"London, UK",#FashionDisappointment,Negative
+28,Topshop,@topshop,"Used to be a go-to, not anymore.",8/2/2023,"Leeds, UK",#NotImpressed,Negative
+29,Primark,@primark,Bargain shopping heaven!,10/25/2020,"Bristol, UK",#CheapThrills,Positive
+30,Louis Vuitton,@louisvuitton,Timeless and iconic.,6/18/2022,"Birmingham, UK",#HighEnd,Positive
+31,Forever 21,@forever21,Trendy but not the best quality.,3/14/2021,"Manchester, UK",#Trendy,Neutral
+32,Zara,@zaraofficial,Impressed with the new collection.,7/11/2023,"London, UK",#NewArrivals,Positive
+33,Prada,@prada,Unique and luxurious designs.,4/19/2020,"Glasgow, UK",#LuxuryFashion,Positive
+34,ASOS,@asos,Unreliable sizing information.,10/8/2022,"Edinburgh, UK",#SizeIssues,Negative
+35,Boohoo,@boohoo,Stylish and affordable options.,5/30/2023,"Birmingham, UK",#AffordableFashion,Positive
+36,Mango,@mango,Great customer service experience!,12/27/2019,"Liverpool, UK",#CustomerSatisfaction,Positive
+37,Calvin Klein,@calvinklein,Disappointed with recent designs.,9/16/2021,"Manchester, UK",#FashionReview,Negative
+38,Nike,@nike,Motivating designs for workouts.,3/22/2022,"London, UK",#Fitness,Positive
+39,New Look,@newlook,Lack of unique styles.,1/5/2023,"Leeds, UK",#FashionVariety,Neutral
+40,Versace,@versace,Elegant and luxurious.,8/14/2020,"Bristol, UK",#LuxuryFashion,Positive
+41,H&M,@hm,Affordable basics are a win!,10/27/2021,"Glasgow, UK",#WardrobeEssentials,Positive
+42,Topman,@topman,Where are the latest trends?,11/11/2022,"Edinburgh, UK",#FashionUpdate,Neutral
+43,Missguided,@missguided,Quality doesn't match the price.,10/9/2019,"Manchester, UK",#QuestionableQuality,Negative
+44,Adidas,@adidas,Sleek and functional sportswear.,7/1/2021,"London, UK",#Sporty,Positive
+45,Gucci,@gucci,"Iconic and luxurious, but overpriced.",3/19/2023,"Birmingham, UK",#HighEndFashion,Neutral
+46,Uniqlo,@uniqlo,Reliable basics for everyday wear.,4/2/2022,"Manchester, UK",#Basics,Positive
+47,Zara,@zaraofficial,Disappointed with recent purchases.,6/7/2023,"London, UK",#FashionFrustration,Negative
+48,Burberry,@burberry,Elegant and classic as always.,9/23/2020,"Bristol, UK",#Timeless,Positive
+49,Primark,@primark,Amazing value for the price!,12/30/2021,"Glasgow, UK",#AffordableStyle,Positive
+50,Louis Vuitton,@louisvuitton,Unmatched luxury and craftsmanship.,2/18/2022,"Edinburgh, UK",#Luxury,Positive
+51,Nike,@nike,Innovative sportswear designs.,7/29/2023,"London, UK",#AthleticInnovation,Positive
+52,Mango,@mango,Quality has improved lately.,4/11/2020,"Manchester, UK",#FashionProgress,Positive
+53,Topshop,@topshop,Unique and trendy styles.,6/14/2022,"Birmingham, UK",#FashionForward,Positive
+54,Balenciaga,@balenciaga,Designs are too avant-garde.,4/7/2023,"Leeds, UK",#AvantGarde,Neutral
+55,Zara,@zaraofficial,Affordable and stylish options.,2/8/2021,"Glasgow, UK",#FashionFinds,Positive
+56,Gucci,@gucci,Love the new collection!,11/16/2022,"London, UK",#LuxuryFashion,Positive
+57,ASOS,@asos,Frustrating returns process.,1/22/2023,"Bristol, UK",#ReturnIssues,Negative
+58,H&M,@hm,Their sustainable efforts are commendable.,9/30/2021,"Manchester, UK",#SustainableFashion,Positive
+59,New Look,@newlook,Great variety of styles.,8/27/2020,"London, UK",#FashionVariety,Positive
+60,Adidas,@adidas,Performance-oriented sportswear.,3/19/2022,"Birmingham, UK",#SportsPerformance,Positive
+61,Primark,@primark,Trendy items at unbeatable prices.,5/10/2023,"Edinburgh, UK",#BudgetFashion,Positive
+62,Calvin Klein,@calvinklein,Classic and timeless designs.,12/14/2020,"Liverpool, UK",#IconicDesigns,Positive
+63,River Island,@riverisland,Not as impressed with recent collection.,10/2/2022,"London, UK",#FashionReview,Neutral
+64,Versace,@versace,Lavish and extravagant fashion.,7/15/2021,"Leeds, UK",#Luxury,Positive
+65,Missguided,@missguided,Stylish options for young adults.,3/28/2023,"Manchester, UK",#YouthFashion,Positive
+66,Uniqlo,@uniqlo,Basics with a modern twist.,5/2/2020,"Bristol, UK",#ModernBasics,Positive
+67,Nike,@nike,Their sneakers are top-notch!,4/17/2021,"London, UK",#SneakerObsession,Positive
+68,Mango,@mango,Slow response from customer service.,11/29/2022,"Manchester, UK",#CustomerService,Negative
+69,Topman,@topman,Lacks variety in formal wear.,2/23/2023,"Birmingham, UK",#FormalFashion,Neutral
+70,Zara,@zaraofficial,Disappointed with the recent collection.,9/8/2020,"Glasgow, UK",#FashionDisappointment,Negative
+71,Gucci,@gucci,Elegance and luxury combined.,6/11/2021,"London, UK",#LuxuryFashion,Positive
+72,ASOS,@asos,Love the variety of sizes available.,3/2/2022,"Bristol, UK",#SizeInclusivity,Positive
+73,H&M,@hm,Not happy with the recent designs.,1/15/2023,"Manchester, UK",#FashionReview,Negative
+74,New Look,@newlook,Trendy and affordable options.,7/21/2020,"London, UK",#AffordableStyle,Positive
+75,Adidas,@adidas,Top choice for sportswear.,9/9/2021,"Birmingham, UK",#AthleticWear,Positive
+76,Balenciaga,@balenciaga,Not practical for everyday wear.,8/5/2022,"Leeds, UK",#HighFashion,Neutral
+77,Primark,@primark,Perfect for budget-friendly shopping.,4/18/2023,"Edinburgh, UK",#AffordableFashion,Positive
+78,Versace,@versace,Opulent and stylish.,3/12/2020,"Liverpool, UK",#LuxuryFashion,Positive
+79,River Island,@riverisland,Used to be better.,11/7/2021,"Glasgow, UK",#NotImpressed,Negative
+80,Missguided,@missguided,Quality is subpar.,5/30/2022,"Manchester, UK",#QuestionableQuality,Negative
+81,Calvin Klein,@calvinklein,Classic designs with a modern touch.,8/10/2023,"London, UK",#ClassicModern,Positive
+82,Uniqlo,@uniqlo,Not keeping up with current trends.,6/25/2020,"Birmingham, UK",#TrendLag,Negative
+83,Nike,@nike,Leading in sportswear innovation.,11/29/2021,"Manchester, UK",#SportswearInnovation,Positive
+84,Mango,@mango,Affordable fashion with style.,1/19/2022,"London, UK",#AffordableStyle,Positive
+85,Topshop,@topshop,Quality has gone downhill.,7/14/2023,"Bristol, UK",#Disappointed,Negative
+86,Zara,@zaraofficial,Stylish but overpriced.,8/9/2020,"Glasgow, UK",#FashionPricey,Neutral
+87,Gucci,@gucci,Iconic luxury fashion.,3/30/2021,"Leeds, UK",#LuxuryFashion,Positive
+88,ASOS,@asos,Inconsistent sizing.,6/20/2022,"Edinburgh, UK",#SizeInconsistency,Neutral
+89,H&M,@hm,Great for affordable basics.,3/17/2023,"Manchester, UK",#WardrobeEssentials,Positive
+90,New Look,@newlook,Wide range of fashion choices.,1/23/2020,"London, UK",#FashionChoices,Positive
+91,Adidas,@adidas,Best for sports enthusiasts.,5/8/2021,"Birmingham, UK",#Sporty,Positive
+92,Primark,@primark,Incredible value for money.,9/14/2022,"Glasgow, UK",#BudgetFashion,Positive
+93,Versace,@versace,High-end luxury fashion.,4/9/2023,"Edinburgh, UK",#LuxuryFashion,Positive
+94,River Island,@riverisland,Fashion for the younger crowd.,12/30/2020,"Manchester, UK",#YouthFashion,Positive
+95,Missguided,@missguided,Affordable and trendy options.,2/14/2021,"London, UK",#FashionAffordable,Positive
+96,Calvin Klein,@calvinklein,Timeless and elegant designs.,5/22/2022,"Bristol, UK",#Classic,Positive
+97,Uniqlo,@uniqlo,Quality basics at good prices.,8/19/2023,"Leeds, UK",#QualityBasics,Positive
+98,Nike,@nike,Reliable sportswear brand.,9/1/2020,"Birmingham, UK",#Sportswear,Positive
+99,Mango,@mango,Fashionable and affordable.,10/3/2021,"Manchester, UK",#AffordableFashion,Positive
+100,Topshop,@topshop,Disappointed with recent collection.,11/17/2022,"London, UK",#FashionDisappointment,Negative
+101,Zara,@zaraofficial,Quality has improved.,5/10/2022,"London, UK",#QualityImprovement,Positive
+102,Gucci,@gucci,Love their innovative designs!,3/12/2023,"Manchester, UK",#FashionInnovation,Positive
+103,H&M,@hm,Slow shipping times. ??,8/5/2021,"Leeds, UK",#ShippingIssues,Negative
+104,Adidas,@adidas,Not living up to expectations.,11/23/2020,"Birmingham, UK",#Disappointed,Negative
+105,Balenciaga,@balenciaga,"High fashion, high prices.",7/1/2023,"Glasgow, UK",#LuxuryFashion,Neutral
+106,Primark,@primark,"Great deals, but lack of variety.",2/19/2022,"London, UK",#ValueForMoney,Neutral
+107,ASOS,@asos,Always impressed with their selection.,5/14/2021,"Manchester, UK",#FashionChoices,Positive
+108,Mango,@mango,Affordable and stylish.,6/30/2023,"Birmingham, UK",#AffordableFashion,Positive
+109,Topman,@topman,Classic styles for men.,12/17/2020,"London, UK",#MensFashion,Positive
+110,Zara,@zaraofficial,Quality doesn't match the price.,3/5/2021,"Glasgow, UK",#QuestionableQuality,Negative
+111,Gucci,@gucci,Exquisite craftsmanship.,10/8/2022,"Edinburgh, UK",#LuxuryFashion,Positive
+112,H&M,@hm,Disappointed with recent collection.,2/21/2023,"Manchester, UK",#FashionDisappointment,Negative
+113,Adidas,@adidas,The best sportswear out there.,6/19/2020,"London, UK",#AthleticWear,Positive
+114,Balenciaga,@balenciaga,Overpriced for what you get.,9/15/2021,"Birmingham, UK",#HighFashion,Negative
+115,Primark,@primark,Great value for basics.,11/11/2022,"Leeds, UK",#BudgetFashion,Positive
+116,ASOS,@asos,Inconsistent sizing.,3/8/2023,"Manchester, UK",#SizeInconsistency,Negative
+117,Mango,@mango,Their styles resonate with me.,7/3/2020,"London, UK",#PersonalStyle,Positive
+118,Topman,@topman,Needs more diverse styles.,10/25/2021,"Birmingham, UK",#FashionDiversity,Neutral
+119,Zara,@zaraofficial,Trendy and affordable fashion.,1/14/2022,"Glasgow, UK",#TrendyAffordable,Positive
+120,Gucci,@gucci,Timeless luxury pieces.,8/17/2023,"London, UK",#LuxuryFashion,Positive
+121,H&M,@hm,Not happy with customer service.,4/19/2020,"Manchester, UK",#CustomerService,Negative
+122,Adidas,@adidas,Reliable for athletic wear.,6/28/2021,"Birmingham, UK",#AthleticWear,Positive
+123,Balenciaga,@balenciaga,"Edgy designs, but not for everyone.",9/2/2022,"Glasgow, UK",#EdgyFashion,Neutral
+124,Primark,@primark,Great bargains and trendy finds.,5/15/2023,"London, UK",#BudgetFinds,Positive
+125,ASOS,@asos,Love the diversity in styles.,8/11/2020,"Manchester, UK",#FashionDiversity,Positive
+126,Mango,@mango,Satisfied with my purchases.,11/8/2021,"Birmingham, UK",#HappyCustomer,Positive
+127,Topman,@topman,"Classic styles, but not cutting-edge.",3/14/2022,"London, UK",#ClassicStyles,Neutral
+128,Zara,@zaraofficial,Affordable and chic.,7/20/2023,"Glasgow, UK",#AffordableFashion,Positive
+129,Gucci,@gucci,Luxury at its finest.,9/22/2020,"Edinburgh, UK",#LuxuryFashion,Positive
+130,H&M,@hm,Not impressed with recent collection.,4/27/2021,"Manchester, UK",#FashionReview,Negative
+131,Adidas,@adidas,Love their sportswear range.,2/10/2022,"Birmingham, UK",#Sportswear,Positive
+132,Balenciaga,@balenciaga,"Innovative, but pricey.",5/1/2023,"Glasgow, UK",#FashionInnovation,Neutral
+133,Primark,@primark,Budget-friendly shopping heaven.,10/29/2020,"London, UK",#AffordableStyle,Positive
+134,ASOS,@asos,Mixed experience with their products.,8/12/2021,"Manchester, UK",#VariedExperience,Neutral
+135,Mango,@mango,Affordable fashion finds!,12/15/2022,"Birmingham, UK",#FashionFinds,Positive
+136,Topman,@topman,Could improve their variety.,1/18/2023,"London, UK",#FashionVariety,Neutral
+137,Zara,@zaraofficial,Quality has declined.,3/10/2020,"Glasgow, UK",#QualityDecline,Negative
+138,Gucci,@gucci,Premium luxury fashion.,6/28/2021,"Edinburgh, UK",#LuxuryFashion,Positive
+139,H&M,@hm,Affordable and trendy.,8/19/2022,"Manchester, UK",#AffordableFashion,Positive
+140,Adidas,@adidas,Dependable sportswear.,1/21/2023,"Birmingham, UK",#Reliable,Positive
+141,Balenciaga,@balenciaga,Overhyped and overpriced.,7/14/2020,"Glasgow, UK",#Overhyped,Negative
+142,Primark,@primark,Stylish options on a budget.,9/28/2021,"London, UK",#BudgetStyle,Positive
+143,ASOS,@asos,Wide range of styles available.,4/16/2022,"Manchester, UK",#FashionVariety,Positive
+144,Mango,@mango,Affordable and chic.,3/2/2023,"Birmingham, UK",#ChicAndAffordable,Positive
+145,Topman,@topman,Good quality for the price.,11/12/2020,"London, UK",#ValueForMoney,Positive
+146,Zara,@zaraofficial,Disappointed with recent purchases.,12/5/2021,"Glasgow, UK",#FashionDisappointment,Negative
+147,Gucci,@gucci,Luxury and elegance combined.,10/30/2022,"Edinburgh, UK",#LuxuryFashion,Positive
+148,H&M,@hm,Affordable basics are a win!,5/18/2023,"Manchester, UK",#WardrobeEssentials,Positive
+149,Adidas,@adidas,Reliable brand for sportswear.,8/9/2020,"Birmingham, UK",#AthleticWear,Positive
+150,Balenciaga,@balenciaga,Unique and daring designs.,4/22/2021,"Glasgow, UK",#EdgyFashion,Positive
+151,Primark,@primark,Wallet-friendly options.,6/25/2022,"London, UK",#BudgetFashion,Positive
+152,ASOS,@asos,Not happy with recent orders.,3/11/2023,"Manchester, UK",#FashionReview,Negative
+153,Mango,@mango,Fashionable and budget-friendly.,9/28/2020,"Birmingham, UK",#FashionOnABudget,Positive
+154,Topman,@topman,Could improve their customer service.,1/19/2021,"London, UK",#CustomerService,Negative
+155,Zara,@zaraofficial,Stylish and affordable choices.,2/14/2022,"Glasgow, UK",#FashionChoices,Positive
+156,Gucci,@gucci,Classic luxury pieces.,7/17/2023,"Edinburgh, UK",#ClassicLuxury,Positive
+157,H&M,@hm,Not as impressed with recent designs.,11/21/2020,"Manchester, UK",#FashionReview,Negative
+158,Adidas,@adidas,Reliable for sportswear needs.,1/16/2022,"Birmingham, UK",#Sportswear,Positive
+159,Balenciaga,@balenciaga,Avant-garde designs.,5/3/2023,"Glasgow, UK",#AvantGarde,Positive
+160,Primark,@primark,Affordable and trendy fashion.,7/27/2020,"London, UK",#AffordableFashion,Positive
+161,ASOS,@asos,Satisfied with my purchases.,10/12/2021,"Manchester, UK",#HappyCustomer,Positive
+162,Mango,@mango,Stylish options for all occasions.,12/8/2022,"Birmingham, UK",#VersatileStyle,Positive
+163,Topman,@topman,Lacks diversity in styles.,2/18/2023,"London, UK",#FashionDiversity,Negative
+164,Zara,@zaraofficial,Classic and affordable.,3/20/2020,"Glasgow, UK",#ClassicAffordable,Positive
+165,Gucci,@gucci,High-end luxury fashion.,7/2/2021,"Edinburgh, UK",#LuxuryFashion,Positive
+166,H&M,@hm,Affordable basics are reliable.,8/14/2022,"Manchester, UK",#WardrobeEssentials,Positive
+167,Adidas,@adidas,Dependable for sportswear needs.,1/27/2023,"Birmingham, UK",#Reliable,Positive
+168,Balenciaga,@balenciaga,"Unique designs, but not my style.",6/9/2020,"Glasgow, UK",#UniqueDesigns,Neutral
+169,Primark,@primark,Budget-friendly fashion finds.,9/5/2021,"London, UK",#FashionFinds,Positive
+170,ASOS,@asos,Disappointed with recent quality.,4/17/2022,"Manchester, UK",#QualityConcerns,Negative
+171,Mango,@mango,Stylish and affordable.,6/22/2023,"Birmingham, UK",#FashionStyle,Positive
+172,Topman,@topman,Lacks options for formal wear.,8/28/2020,"London, UK",#FormalFashion,Neutral
+173,Zara,@zaraofficial,Trendy and budget-friendly.,12/30/2021,"Glasgow, UK",#FashionOnABudget,Positive
+174,Gucci,@gucci,Classic and luxurious fashion.,10/3/2022,"Edinburgh, UK",#LuxuryFashion,Positive
+175,H&M,@hm,Frustrating online shopping experience.,3/15/2023,"Manchester, UK",#OnlineShopping,Negative
+176,Adidas,@adidas,Trusted for sportswear.,9/18/2020,"Birmingham, UK",#Sportswear,Positive
+177,Balenciaga,@balenciaga,Artistic and unconventional.,11/22/2021,"Glasgow, UK",#ArtisticFashion,Positive
+178,Primark,@primark,Affordable and trendy options.,9/17/2022,"London, UK",#AffordableStyle,Positive
+179,ASOS,@asos,"Varied selection, sometimes overwhelming.",3/8/2023,"Manchester, UK",#FashionVariety,Neutral
+180,Mango,@mango,Stylish and affordable choices.,10/29/2020,"Birmingham, UK",#StylishAffordable,Positive
+181,Topman,@topman,Limited options for plus sizes.,7/14/2021,"London, UK",#SizeInclusivity,Neutral
+182,Zara,@zaraofficial,Stylish but overpriced.,3/18/2022,"Glasgow, UK",#FashionPricey,Neutral
+183,Gucci,@gucci,Luxury fashion with a high price tag.,1/22/2023,"Edinburgh, UK",#LuxuryFashion,Neutral
+184,H&M,@hm,Affordable basics and trendy options.,9/2/2020,"Manchester, UK",#WardrobeEssentials,Positive
+185,Adidas,@adidas,Consistently reliable sportswear.,5/29/2021,"Birmingham, UK",#Sportswear,Positive
+186,Balenciaga,@balenciaga,Unique and avant-garde fashion.,10/14/2022,"Glasgow, UK",#AvantGarde,Positive
+187,Primark,@primark,Affordable fashion for all.,3/9/2023,"London, UK",#FashionForAll,Positive
+188,ASOS,@asos,Inconsistent quality.,6/28/2020,"Manchester, UK",#QualityIssues,Neutral
+189,Mango,@mango,Budget-friendly and stylish.,11/15/2021,"Birmingham, UK",#BudgetStylish,Positive
+190,Topman,@topman,"Classic styles, but lacking innovation.",5/12/2022,"London, UK",#ClassicInnovation,Neutral
+191,Zara,@zaraofficial,Stylish options but not worth the price.,7/28/2023,"Glasgow, UK",#StylishOverpriced,Neutral
+192,Gucci,@gucci,"Premium fashion, premium prices.",8/22/2020,"Edinburgh, UK",#LuxuryFashion,Neutral
+193,H&M,@hm,Reliable basics at affordable prices.,12/5/2021,"Manchester, UK",#BasicsAffordable,Positive
+194,Adidas,@adidas,Trusted brand for sportswear needs.,4/28/2022,"Birmingham, UK",#Sportswear,Positive
+195,Balenciaga,@balenciaga,Edgy and unconventional designs.,2/17/2023,"Glasgow, UK",#EdgyFashion,Positive
+196,Primark,@primark,Affordable fashion paradise.,11/19/2020,"London, UK",#FashionParadise,Positive
+197,ASOS,@asos,Convenient online shopping experience.,8/22/2021,"Manchester, UK",#OnlineShopping,Positive
+198,Mango,@mango,Fashionable and budget-friendly options.,3/19/2022,"Birmingham, UK",#BudgetFashion,Positive
+199,Topman,@topman,Limited selection of formal wear.,5/13/2023,"London, UK",#FormalFashion,Neutral
+200,Zara,@zaraofficial,"Stylish options, but some quality issues.",7/16/2020,"Glasgow, UK",#FashionQualityIssues,Neutral
+201,Gucci,@gucci,Exquisite luxury fashion.,10/28/2021,"Edinburgh, UK",#LuxuryFashion,Positive
+202,H&M,@hm,Affordable fashion for all occasions.,2/25/2022,"Manchester, UK",#FashionForAll,Positive
+203,Adidas,@adidas,Trusted for athletic wear.,6/9/2023,"Birmingham, UK",#AthleticWear,Positive
+204,Balenciaga,@balenciaga,Unique and daring designs.,3/11/2020,"Glasgow, UK",#DaringFashion,Positive
+205,Primark,@primark,Budget-friendly and trendy fashion.,12/8/2021,"London, UK",#BudgetTrendy,Positive
+206,ASOS,@asos,"Fast shipping, good selection.",9/29/2022,"Manchester, UK",#FastShipping,Positive
+207,Mango,@mango,Stylish and affordable.,1/30/2023,"Birmingham, UK",#StylishAffordable,Positive
+208,Topman,@topman,Needs more variety in styles.,8/11/2020,"London, UK",#FashionVariety,Neutral
+209,Zara,@zaraofficial,Stylish but inconsistent quality.,10/15/2021,"Glasgow, UK",#FashionQuality,Neutral
+210,Gucci,@gucci,Timeless luxury fashion.,11/18/2022,"Edinburgh, UK",#TimelessLuxury,Positive
+211,H&M,@hm,Affordable fashion for every day.,4/21/2023,"Manchester, UK",#EverydayFashion,Positive
+212,Adidas,@adidas,Sporty and reliable.,5/23/2020,"Birmingham, UK",#Sportswear,Positive
+213,Balenciaga,@balenciaga,Bold and artistic fashion.,6/22/2021,"Glasgow, UK",#ArtisticFashion,Positive
+214,Primark,@primark,Fashion on a budget.,2/14/2022,"London, UK",#FashionBudget,Positive
+215,ASOS,@asos,Wide range of styles.,7/11/2023,"Manchester, UK",#FashionStyles,Positive
+216,Mango,@mango,Affordable and stylish.,9/15/2020,"Birmingham, UK",#AffordableStylish,Positive
+217,Topman,@topman,Classic styles with room for improvement.,4/18/2021,"London, UK",#ClassicFashion,Neutral
+218,Zara,@zaraofficial,"Trendy options, hit or miss.",6/9/2022,"Glasgow, UK",#FashionTrends,Neutral
+219,Gucci,@gucci,Luxury fashion statement.,3/28/2023,"Edinburgh, UK",#LuxuryFashion,Positive
+220,H&M,@hm,Reliable basics and trendy finds.,10/11/2020,"Manchester, UK",#FashionFinds,Positive
+221,Adidas,@adidas,Dependable for sportswear.,11/18/2021,"Birmingham, UK",#Sportswear,Positive
+222,Balenciaga,@balenciaga,"High fashion, high prices.",4/30/2022,"Glasgow, UK",#HighFashion,Neutral
+223,Primark,@primark,Affordable and fashionable.,1/22/2023,"London, UK",#AffordableFashion,Positive
+224,ASOS,@asos,Mixed experience with their products.,12/8/2020,"Manchester, UK",#VariedExperience,Neutral
+225,Mango,@mango,Stylish and affordable.,9/15/2021,"Birmingham, UK",#StylishAffordable,Positive
+226,Topman,@topman,Limited sizing options.,10/5/2022,"London, UK",#SizeVariety,Negative
+227,Zara,@zaraofficial,Stylish but inconsistent quality.,2/17/2023,"Glasgow, UK",#FashionQuality,Neutral
+228,Gucci,@gucci,Timeless luxury fashion.,11/19/2020,"Edinburgh, UK",#TimelessLuxury,Positive
+229,H&M,@hm,Affordable fashion for every day.,4/21/2021,"Manchester, UK",#EverydayFashion,Positive
+230,Adidas,@adidas,Sporty and reliable.,5/23/2022,"Birmingham, UK",#Sportswear,Positive
+231,Balenciaga,@balenciaga,Bold and artistic fashion.,6/22/2023,"Glasgow, UK",#ArtisticFashion,Positive
+232,Primark,@primark,Fashion on a budget.,7/14/2020,"London, UK",#FashionBudget,Positive
+233,ASOS,@asos,Wide range of styles.,8/11/2021,"Manchester, UK",#FashionStyles,Positive
+234,Mango,@mango,Affordable and stylish.,9/15/2022,"Birmingham, UK",#AffordableStylish,Positive
+235,Topshop,@topshop,Disappointed with recent collection.,6/18/2023,"London, UK",#FashionDisappointment,Negative
+236,Zara,@zaraofficial,Trendy but overpriced.,9/20/2020,"Glasgow, UK",#FashionPricey,Neutral
+237,Gucci,@gucci,Luxury fashion with a high price tag.,2/10/2021,"Edinburgh, UK",#LuxuryFashion,Neutral
+238,H&M,@hm,Affordable basics and trendy options.,4/2/2022,"Manchester, UK",#WardrobeEssentials,Positive
+239,Adidas,@adidas,Consistently reliable sportswear.,5/5/2023,"Birmingham, UK",#Sportswear,Positive
+240,Balenciaga,@balenciaga,Unique and avant-garde fashion.,6/12/2020,"Glasgow, UK",#AvantGarde,Positive
+241,Primark,@primark,Affordable fashion for all.,8/29/2021,"London, UK",#FashionForAll,Positive
+242,ASOS,@asos,Inconsistent quality.,10/2/2022,"Manchester, UK",#QualityIssues,Negative
+243,Mango,@mango,Budget-friendly and stylish.,3/27/2023,"Birmingham, UK",#BudgetStylish,Positive
+244,Topman,@topman,"Classic styles, but lacking innovation.",4/30/2020,"London, UK",#ClassicInnovation,Neutral
+245,Zara,@zaraofficial,Stylish options but not worth the price.,9/20/2021,"Glasgow, UK",#StylishOverpriced,Neutral
+246,Gucci,@gucci,"Premium fashion, premium prices.",12/10/2022,"Edinburgh, UK",#LuxuryFashion,Neutral
+247,H&M,@hm,Reliable basics at affordable prices.,6/2/2023,"Manchester, UK",#BasicsAffordable,Positive
+248,Adidas,@adidas,Trusted brand for sportswear needs.,7/28/2020,"Birmingham, UK",#Sportswear,Positive
+249,Balenciaga,@balenciaga,Edgy and unconventional designs.,10/21/2021,"Glasgow, UK",#EdgyFashion,Positive
+250,Primark,@primark,Affordable fashion paradise.,12/15/2022,"London, UK",#FashionParadise,Positive
+251,ASOS,@asos,Convenient online shopping experience.,3/28/2020,"Manchester, UK",#OnlineShopping,Positive
+252,Mango,@mango,Stylish and affordable options.,11/30/2021,"Birmingham, UK",#StylishAffordable,Positive
+253,Topman,@topman,Limited selection of formal wear.,2/28/2022,"London, UK",#FormalFashion,Neutral
+254,Zara,@zaraofficial,"Stylish options, but some quality issues.",3/12/2023,"Glasgow, UK",#FashionQualityIssues,Neutral
+255,Gucci,@gucci,Exquisite luxury fashion.,9/10/2020,"Edinburgh, UK",#LuxuryFashion,Positive
+256,H&M,@hm,Affordable fashion for all occasions.,12/22/2021,"Manchester, UK",#FashionForAll,Positive
+257,Adidas,@adidas,Trusted for athletic wear.,5/18/2023,"Birmingham, UK",#AthleticWear,Positive
+258,Balenciaga,@balenciaga,Unique and daring designs.,8/9/2020,"Glasgow, UK",#DaringFashion,Positive
+259,Primark,@primark,Affordable and trendy fashion.,12/5/2021,"London, UK",#BudgetFashion,Positive
+260,ASOS,@asos,"Fast shipping, good selection.",10/18/2022,"Manchester, UK",#FastShipping,Positive
+261,Mango,@mango,Stylish and affordable.,1/28/2023,"Birmingham, UK",#StylishAffordable,Positive
+262,Topman,@topman,Needs more variety in styles.,6/10/2020,"London, UK",#FashionVariety,Neutral
+263,Zara,@zaraofficial,Stylish but inconsistent quality.,8/12/2021,"Glasgow, UK",#FashionQuality,Neutral
+264,Gucci,@gucci,Timeless luxury fashion.,10/15/2022,"Edinburgh, UK",#TimelessLuxury,Positive
+265,H&M,@hm,Affordable fashion for every day.,4/29/2023,"Manchester, UK",#EverydayFashion,Positive
+266,Adidas,@adidas,Sporty and reliable.,5/22/2020,"Birmingham, UK",#Sportswear,Positive
+267,Balenciaga,@balenciaga,Bold and artistic fashion.,6/21/2021,"Glasgow, UK",#ArtisticFashion,Positive
+268,Primark,@primark,Fashion on a budget.,3/14/2022,"London, UK",#FashionBudget,Positive
+269,ASOS,@asos,Wide range of styles.,7/19/2023,"Manchester, UK",#FashionStyles,Positive
+270,Mango,@mango,Affordable and stylish.,9/19/2020,"Birmingham, UK",#AffordableStylish,Positive
+271,Topman,@topman,Disappointed with recent collection.,9/10/2022,"London, UK",#FashionDisappointment,Negative
+272,Zara,@zaraofficial,Stylish but inconsistent quality.,3/15/2023,"Glasgow, UK",#FashionQuality,Neutral
+273,Gucci,@gucci,Luxury fashion but not worth the cost.,5/20/2020,"Edinburgh, UK",#LuxuryFashion,Negative
+274,H&M,@hm,Inconsistent sizing.,8/28/2021,"Manchester, UK",#SizeIssues,Neutral
+275,Adidas,@adidas,Disappointed with recent sportswear purchase.,11/12/2022,"Birmingham, UK",#Sportswear,Negative
+276,Balenciaga,@balenciaga,Unique designs but not practical.,2/19/2023,"Glasgow, UK",#UniqueDesigns,Neutral
+277,Primark,@primark,Unsatisfactory quality for the price.,12/5/2020,"London, UK",#QualityConcerns,Negative
+278,ASOS,@asos,Order mix-up and poor customer service.,4/17/2021,"Manchester, UK",#CustomerService,Negative
+279,Mango,@mango,Unimpressed with recent fashion choices.,3/18/2022,"Birmingham, UK",#FashionReview,Negative
+280,Topman,@topman,Lack of variety in designs.,5/23/2023,"London, UK",#FashionVariety,Neutral
+281,Zara,@zaraofficial,Stylish but overpriced.,7/15/2020,"Glasgow, UK",#FashionPricey,Neutral
+282,Gucci,@gucci,Luxury fashion with inconsistent quality.,9/18/2021,"Edinburgh, UK",#LuxuryFashion,Neutral
+283,H&M,@hm,Affordable basics with limited options.,11/21/2022,"Manchester, UK",#WardrobeEssentials,Neutral
+284,Adidas,@adidas,Inconsistent quality for sportswear.,1/25/2023,"Birmingham, UK",#Sportswear,Negative
+285,Balenciaga,@balenciaga,Unique but not versatile designs.,2/27/2020,"Glasgow, UK",#UniqueDesigns,Neutral
+286,Primark,@primark,Unhappy with recent fashion purchase.,3/10/2021,"London, UK",#FashionReview,Negative
+287,ASOS,@asos,Difficulties with returns process.,4/15/2022,"Manchester, UK",#ReturnsProcess,Negative
+288,Mango,@mango,Disappointed with recent styles.,6/20/2023,"Birmingham, UK",#FashionDisappointment,Negative
+289,Topman,@topman,Mediocre collection.,8/22/2020,"London, UK",#FashionMediocre,Neutral
+290,Zara,@zaraofficial,Stylish but inconsistent quality.,9/10/2021,"Glasgow, UK",#FashionQuality,Neutral
+291,Topman,@topman,Disappointed with recent collection.,9/10/2022,"London, UK",#FashionDisappointment,Negative
+292,Zara,@zaraofficial,Stylish and trendy options.,3/15/2023,"Glasgow, UK",#FashionTrendy,Positive
+293,Gucci,@gucci,Luxury fashion with exquisite designs.,5/20/2020,"Edinburgh, UK",#LuxuryFashion,Positive
+294,H&M,@hm,Affordable basics and stylish choices.,8/28/2021,"Manchester, UK",#WardrobeEssentials,Positive
+295,Adidas,@adidas,Reliable sportswear brand.,11/12/2022,"Birmingham, UK",#Sportswear,Positive
+296,Balenciaga,@balenciaga,Unique and artistic designs.,2/19/2023,"Glasgow, UK",#ArtisticFashion,Positive
+297,Primark,@primark,Affordable fashion for all.,12/5/2020,"London, UK",#FashionForAll,Positive
+298,ASOS,@asos,Varied selection and fast shipping.,4/17/2021,"Manchester, UK",#FashionVariety,Positive
+299,Mango,@mango,Stylish and affordable choices.,3/18/2022,"Birmingham, UK",#StylishAffordable,Positive
+300,Topman,@topman,Needs more variety in styles.,5/23/2023,"London, UK",#FashionVariety,Neutral
+301,Zara,@zaraofficial,Stylish but overpriced.,7/15/2020,"Glasgow, UK",#FashionPricey,Negative
+302,Gucci,@gucci,Premium fashion with exquisite designs.,9/18/2021,"Edinburgh, UK",#LuxuryFashion,Positive
+303,H&M,@hm,Reliable basics and trendy options.,11/21/2022,"Manchester, UK",#FashionFinds,Positive
+304,Adidas,@adidas,Dependable brand for sportswear.,1/25/2023,"Birmingham, UK",#Sportswear,Positive
+305,Balenciaga,@balenciaga,Edgy and unconventional designs.,2/27/2020,"Glasgow, UK",#EdgyFashion,Positive
+306,Primark,@primark,Affordable and trendy fashion.,3/10/2021,"London, UK",#BudgetTrendy,Positive
+307,ASOS,@asos,Convenient online shopping experience.,4/15/2022,"Manchester, UK",#OnlineShopping,Positive
+308,Mango,@mango,Stylish and affordable options.,6/20/2023,"Birmingham, UK",#StylishAffordable,Positive
+309,Topman,@topman,Classic styles with room for improvement.,8/18/2020,"London, UK",#ClassicFashion,Neutral
+310,Zara,@zaraofficial,Stylish options but not worth the price.,9/20/2021,"Glasgow, UK",#StylishOverpriced,Neutral
+311,Gucci,@gucci,Timeless luxury fashion.,10/15/2022,"Edinburgh, UK",#TimelessLuxury,Positive
+312,H&M,@hm,Affordable fashion for every day.,4/29/2023,"Manchester, UK",#EverydayFashion,Positive
+313,Adidas,@adidas,Sporty and reliable.,5/22/2020,"Birmingham, UK",#Sportswear,Positive
+314,Balenciaga,@balenciaga,Bold and artistic fashion.,6/21/2021,"Glasgow, UK",#ArtisticFashion,Positive
+315,Primark,@primark,Fashion on a budget.,7/14/2022,"London, UK",#FashionBudget,Positive
+316,ASOS,@asos,Wide range of styles.,8/19/2023,"Manchester, UK",#FashionStyles,Positive
+317,Mango,@mango,Affordable and stylish.,9/19/2020,"Birmingham, UK",#AffordableStylish,Positive
+318,Topman,@topman,Limited variety in designs.,4/12/2021,"London, UK",#FashionVariety,Neutral
+319,Zara,@zaraofficial,Stylish but inconsistent quality.,6/10/2022,"Glasgow, UK",#FashionQuality,Neutral
+320,Gucci,@gucci,Premium luxury fashion.,7/15/2023,"Edinburgh, UK",#LuxuryFashion,Positive
+321,H&M,@hm,Reliable basics at affordable prices.,8/21/2020,"Manchester, UK",#BasicsAffordable,Positive
+322,Adidas,@adidas,Trusted brand for sportswear needs.,9/18/2021,"Birmingham, UK",#Sportswear,Positive
+323,Balenciaga,@balenciaga,Unique and daring designs.,11/23/2022,"Glasgow, UK",#DaringFashion,Positive
+324,Primark,@primark,Budget-friendly and trendy fashion.,3/16/2023,"London, UK",#BudgetTrendy,Positive
+325,ASOS,@asos,"Fast shipping, good selection.",5/28/2020,"Manchester, UK",#FastShipping,Positive
+326,Mango,@mango,Stylish and affordable.,7/30/2021,"Birmingham, UK",#StylishAffordable,Positive
+327,Topman,@topman,Needs more variety in styles.,8/15/2022,"London, UK",#FashionVariety,Neutral
+328,Zara,@zaraofficial,Stylish but inconsistent quality.,9/17/2023,"Glasgow, UK",#FashionQuality,Neutral
+329,Gucci,@gucci,Timeless luxury fashion.,11/18/2020,"Edinburgh, UK",#TimelessLuxury,Positive
+330,H&M,@hm,Affordable fashion for every day.,12/21/2021,"Manchester, UK",#EverydayFashion,Positive
+331,Adidas,@adidas,Sporty and reliable.,5/22/2022,"Birmingham, UK",#Sportswear,Positive
+332,Balenciaga,@balenciaga,Bold and artistic fashion.,6/21/2023,"Glasgow, UK",#ArtisticFashion,Positive
+333,Primark,@primark,Affordable fashion paradise.,7/18/2020,"London, UK",#FashionParadise,Positive
+334,ASOS,@asos,Convenient online shopping experience.,8/15/2021,"Manchester, UK",#OnlineShopping,Positive
+335,Mango,@mango,Stylish and affordable.,9/30/2022,"Birmingham, UK",#StylishAffordable,Positive
+336,Topman,@topman,Limited selection of formal wear.,5/15/2023,"London, UK",#FormalFashion,Neutral
+337,Zara,@zaraofficial,"Stylish options, but some quality issues.",6/12/2020,"Glasgow, UK",#FashionQualityIssues,Neutral
+338,Gucci,@gucci,Exquisite luxury fashion.,7/28/2021,"Edinburgh, UK",#LuxuryFashion,Positive
+339,H&M,@hm,Affordable fashion for all occasions.,8/25/2022,"Manchester, UK",#FashionForAll,Positive
+340,Adidas,@adidas,Trusted for athletic wear.,9/18/2023,"Birmingham, UK",#AthleticWear,Positive
+341,Topman,@topman,Disappointed with recent collection.,5/10/2022,"London, UK",#FashionDisappointment,Negative
+342,Zara,@zaraofficial,Stylish and trendy options.,1/15/2023,"Glasgow, UK",#FashionTrendy,Positive
+343,Gucci,@gucci,Luxury fashion with exquisite designs.,8/20/2020,"Edinburgh, UK",#LuxuryFashion,Positive
+344,H&M,@hm,Affordable basics and stylish choices.,11/28/2021,"Manchester, UK",#WardrobeEssentials,Positive
+345,Adidas,@adidas,Reliable sportswear brand.,4/12/2022,"Birmingham, UK",#Sportswear,Positive
+346,Balenciaga,@balenciaga,Unique and artistic designs.,9/19/2023,"Glasgow, UK",#ArtisticFashion,Positive
+347,Primark,@primark,Affordable fashion for all.,10/5/2020,"London, UK",#FashionForAll,Positive
+348,ASOS,@asos,Varied selection and fast shipping.,6/17/2021,"Manchester, UK",#FashionVariety,Positive
+349,Mango,@mango,Stylish and affordable choices.,9/28/2022,"Birmingham, UK",#StylishAffordable,Positive
+350,Topman,@topman,Needs more variety in styles.,1/23/2023,"London, UK",#FashionVariety,Neutral
+351,Zara,@zaraofficial,Stylish but overpriced.,3/15/2020,"Glasgow, UK",#FashionPricey,Negative
+352,Gucci,@gucci,Premium fashion with exquisite designs.,6/18/2021,"Edinburgh, UK",#LuxuryFashion,Positive
+353,H&M,@hm,Reliable basics and trendy options.,9/21/2022,"Manchester, UK",#FashionFinds,Positive
+354,Adidas,@adidas,Dependable brand for sportswear needs.,2/25/2023,"Birmingham, UK",#Sportswear,Positive
+355,Balenciaga,@balenciaga,Edgy and unconventional designs.,5/27/2020,"Glasgow, UK",#EdgyFashion,Positive
+356,Primark,@primark,Affordable and trendy fashion.,8/30/2021,"London, UK",#BudgetTrendy,Positive
+357,ASOS,@asos,Convenient online shopping experience.,10/15/2022,"Manchester, UK",#OnlineShopping,Positive
+358,Mango,@mango,Stylish and affordable options.,2/28/2023,"Birmingham, UK",#StylishAffordable,Positive
+359,Topman,@topman,Limited selection of formal wear.,6/15/2020,"London, UK",#FormalFashion,Neutral
+360,Zara,@zaraofficial,"Stylish options, but some quality issues.",7/12/2021,"Glasgow, UK",#FashionQualityIssues,Neutral
+361,Gucci,@gucci,Exquisite luxury fashion.,8/28/2022,"Edinburgh, UK",#LuxuryFashion,Positive
+362,H&M,@hm,Affordable fashion for all occasions.,1/21/2023,"Manchester, UK",#FashionForAll,Positive
+363,Adidas,@adidas,Trusted for athletic wear.,4/22/2020,"Birmingham, UK",#AthleticWear,Positive
+364,Balenciaga,@balenciaga,Bold and artistic fashion.,6/25/2021,"Glasgow, UK",#ArtisticFashion,Positive
+365,Primark,@primark,Budget-friendly and trendy fashion.,8/14/2022,"London, UK",#BudgetTrendy,Positive
+366,ASOS,@asos,"Fast shipping, good selection.",3/17/2023,"Manchester, UK",#FastShipping,Positive
+367,Mango,@mango,Stylish and affordable.,5/20/2020,"Birmingham, UK",#StylishAffordable,Positive
+368,Topman,@topman,Needs more variety in styles.,6/23/2021,"London, UK",#FashionVariety,Neutral
+369,Zara,@zaraofficial,Stylish but inconsistent quality.,7/18/2022,"Glasgow, UK",#FashionQuality,Neutral
+370,Gucci,@gucci,Timeless luxury fashion.,8/10/2023,"Edinburgh, UK",#TimelessLuxury,Positive
+371,H&M,@hm,Affordable basics at affordable prices.,9/21/2020,"Manchester, UK",#BasicsAffordable,Positive
+372,Adidas,@adidas,Trusted brand for sportswear needs.,10/18/2021,"Birmingham, UK",#Sportswear,Positive
+373,Balenciaga,@balenciaga,Unique and daring designs.,11/25/2022,"Glasgow, UK",#DaringFashion,Positive
+374,Primark,@primark,Affordable fashion paradise.,12/15/2023,"London, UK",#FashionParadise,Positive
+375,ASOS,@asos,Easy online shopping experience.,1/28/2020,"Manchester, UK",#OnlineShopping,Positive
+376,Mango,@mango,Stylish and affordable.,3/30/2021,"Birmingham, UK",#StylishAffordable,Positive
+377,Topman,@topman,Limited selection of formal wear.,4/28/2022,"London, UK",#FormalFashion,Neutral
+378,Zara,@zaraofficial,"Stylish options, but some quality issues.",5/12/2023,"Glasgow, UK",#FashionQualityIssues,Neutral
+379,Gucci,@gucci,Exquisite luxury fashion.,6/15/2020,"Edinburgh, UK",#LuxuryFashion,Positive
+380,H&M,@hm,Affordable fashion for all occasions.,7/18/2021,"Manchester, UK",#FashionForAll,Positive
+381,Adidas,@adidas,Trusted for athletic wear.,8/22/2022,"Birmingham, UK",#AthleticWear,Positive
+382,Balenciaga,@balenciaga,Bold and artistic fashion.,9/25/2023,"Glasgow, UK",#ArtisticFashion,Positive
+383,Primark,@primark,Budget-friendly and trendy fashion.,10/30/2020,"London, UK",#BudgetTrendy,Positive
+384,ASOS,@asos,"Fast shipping, good selection.",12/5/2021,"Manchester, UK",#FastShipping,Positive
+385,Mango,@mango,Stylish and affordable.,1/15/2022,"Birmingham, UK",#StylishAffordable,Positive
+386,Topman,@topman,Needs more variety in styles.,2/20/2023,"London, UK",#FashionVariety,Neutral
+387,Zara,@zaraofficial,Stylish but inconsistent quality.,3/25/2020,"Glasgow, UK",#FashionQuality,Neutral
+388,Gucci,@gucci,Timeless luxury fashion.,4/30/2021,"Edinburgh, UK",#TimelessLuxury,Positive
+389,H&M,@hm,Affordable basics at affordable prices.,6/15/2022,"Manchester, UK",#BasicsAffordable,Positive
+390,Adidas,@adidas,Trusted brand for sportswear needs.,7/10/2023,"Birmingham, UK",#Sportswear,Positive
+391,Balenciaga,@balenciaga,Unique and daring designs.,8/18/2020,"Glasgow, UK",#DaringFashion,Positive
+392,Primark,@primark,Affordable fashion paradise.,10/25/2021,"London, UK",#FashionParadise,Positive
+393,ASOS,@asos,Easy online shopping experience.,12/10/2022,"Manchester, UK",#OnlineShopping,Positive
+394,Mango,@mango,Stylish and affordable.,3/15/2023,"Birmingham, UK",#StylishAffordable,Positive
+395,Topman,@topman,Limited selection of formal wear.,4/28/2020,"London, UK",#FormalFashion,Neutral
+396,Zara,@zaraofficial,"Stylish options, but some quality issues.",5/12/2021,"Glasgow, UK",#FashionQualityIssues,Neutral
+397,Gucci,@gucci,Exquisite luxury fashion.,6/15/2022,"Edinburgh, UK",#LuxuryFashion,Positive
+398,H&M,@hm,Affordable fashion for all occasions.,7/18/2023,"Manchester, UK",#FashionForAll,Positive
+399,Adidas,@adidas,Trusted for athletic wear.,8/22/2020,"Birmingham, UK",#AthleticWear,Positive
+400,Balenciaga,@balenciaga,Bold and artistic fashion.,9/25/2021,"Glasgow, UK",#ArtisticFashion,Positive
+401,Primark,@primark,Budget-friendly and trendy fashion.,10/30/2022,"London, UK",#BudgetTrendy,Positive
+402,ASOS,@asos,"Fast shipping, good selection.",12/5/2023,"Manchester, UK",#FastShipping,Positive
+403,Mango,@mango,Stylish and affordable.,1/15/2020,"Birmingham, UK",#StylishAffordable,Positive
+404,Topman,@topman,Needs more variety in styles.,2/20/2021,"London, UK",#FashionVariety,Neutral
+405,Zara,@zaraofficial,Stylish but inconsistent quality.,3/25/2022,"Glasgow, UK",#FashionQuality,Neutral
+406,Gucci,@gucci,Timeless luxury fashion.,4/30/2023,"Edinburgh, UK",#TimelessLuxury,Positive
+407,H&M,@hm,Affordable basics at affordable prices.,5/15/2020,"Manchester, UK",#BasicsAffordable,Positive
+408,Adidas,@adidas,Trusted brand for sportswear needs.,6/10/2021,"Birmingham, UK",#Sportswear,Positive
+409,Balenciaga,@balenciaga,Unique and daring designs.,7/25/2022,"Glasgow, UK",#DaringFashion,Positive
+410,Primark,@primark,Affordable fashion paradise.,8/15/2023,"London, UK",#FashionParadise,Positive
+411,ASOS,@asos,Easy online shopping experience.,9/10/2020,"Manchester, UK",#OnlineShopping,Positive
+412,Mango,@mango,Stylish and affordable.,10/15/2021,"Birmingham, UK",#StylishAffordable,Positive
+413,Topman,@topman,Limited selection of formal wear.,11/28/2022,"London, UK",#FormalFashion,Neutral
+414,Zara,@zaraofficial,"Stylish options, but some quality issues.",12/12/2023,"Glasgow, UK",#FashionQualityIssues,Neutral
+415,Gucci,@gucci,Exquisite luxury fashion.,1/15/2020,"Edinburgh, UK",#LuxuryFashion,Positive
+416,H&M,@hm,Affordable fashion for all occasions.,2/18/2021,"Manchester, UK",#FashionForAll,Positive
+417,Adidas,@adidas,Trusted for athletic wear.,3/22/2022,"Birmingham, UK",#AthleticWear,Positive
+418,Balenciaga,@balenciaga,Bold and artistic fashion.,4/25/2023,"Glasgow, UK",#ArtisticFashion,Positive
+419,Primark,@primark,Budget-friendly and trendy fashion.,5/30/2020,"London, UK",#BudgetTrendy,Positive
+420,ASOS,@asos,"Fast shipping, good selection.",6/5/2021,"Manchester, UK",#FastShipping,Positive
+421,Mango,@mango,Stylish and affordable.,7/15/2022,"Birmingham, UK",#StylishAffordable,Positive
+422,Topman,@topman,Needs more variety in styles.,8/20/2023,"London, UK",#FashionVariety,Neutral
+423,Zara,@zaraofficial,Stylish but inconsistent quality.,9/25/2020,"Glasgow, UK",#FashionQuality,Neutral
+424,Gucci,@gucci,Timeless luxury fashion.,10/30/2021,"Edinburgh, UK",#TimelessLuxury,Positive
+425,H&M,@hm,Affordable basics at affordable prices.,12/15/2022,"Manchester, UK",#BasicsAffordable,Positive
+426,Adidas,@adidas,Trusted brand for sportswear needs.,1/10/2023,"Birmingham, UK",#Sportswear,Positive
+427,Balenciaga,@balenciaga,Unique and daring designs.,2/25/2020,"Glasgow, UK",#DaringFashion,Positive
+428,Primark,@primark,Affordable fashion paradise.,3/15/2021,"London, UK",#FashionParadise,Positive
+429,ASOS,@asos,Easy online shopping experience.,4/10/2022,"Manchester, UK",#OnlineShopping,Positive
+430,Mango,@mango,Stylish and affordable.,5/15/2023,"Birmingham, UK",#StylishAffordable,Positive
+431,Topman,@topman,Disappointed with recent collection.,9/10/2022,"London, UK",#FashionDisappointment,Negative
+432,Zara,@zaraofficial,Stylish and trendy options.,3/15/2023,"Glasgow, UK",#FashionTrendy,Positive
+433,Gucci,@gucci,Luxury fashion with exquisite designs.,5/20/2020,"Edinburgh, UK",#LuxuryFashion,Positive
+434,H&M,@hm,Affordable basics and stylish choices.,8/28/2021,"Manchester, UK",#WardrobeEssentials,Positive
+435,Adidas,@adidas,Reliable sportswear brand.,11/12/2022,"Birmingham, UK",#Sportswear,Positive
+436,Balenciaga,@balenciaga,Unique and artistic designs.,2/19/2023,"Glasgow, UK",#ArtisticFashion,Positive
+437,Primark,@primark,Affordable fashion for all.,12/5/2020,"London, UK",#FashionForAll,Positive
+438,ASOS,@asos,Varied selection and fast shipping.,4/17/2021,"Manchester, UK",#FashionVariety,Positive
+439,Mango,@mango,Stylish and affordable choices.,3/18/2022,"Birmingham, UK",#StylishAffordable,Positive
+440,Topman,@topman,Needs more variety in styles.,5/23/2023,"London, UK",#FashionVariety,Neutral
+441,Zara,@zaraofficial,Stylish but overpriced.,7/15/2020,"Glasgow, UK",#FashionPricey,Negative
+442,Gucci,@gucci,Premium fashion with exquisite designs.,9/18/2021,"Edinburgh, UK",#LuxuryFashion,Positive
+443,H&M,@hm,Reliable basics and trendy options.,11/21/2022,"Manchester, UK",#FashionFinds,Positive
+444,Adidas,@adidas,Dependable brand for sportswear needs.,1/25/2023,"Birmingham, UK",#Sportswear,Positive
+445,Balenciaga,@balenciaga,Edgy and unconventional designs.,2/27/2020,"Glasgow, UK",#EdgyFashion,Positive
+446,Primark,@primark,Affordable and trendy fashion.,3/10/2021,"London, UK",#BudgetTrendy,Positive
+447,ASOS,@asos,Convenient online shopping experience.,4/15/2022,"Manchester, UK",#OnlineShopping,Positive
+448,Mango,@mango,Stylish and affordable options.,6/20/2023,"Birmingham, UK",#StylishAffordable,Positive
+449,Topman,@topman,Classic styles with room for improvement.,8/18/2020,"London, UK",#ClassicFashion,Neutral
+450,Zara,@zaraofficial,Stylish options but not worth the price.,9/20/2021,"Glasgow, UK",#StylishOverpriced,Neutral
+451,Gucci,@gucci,Timeless luxury fashion.,10/15/2022,"Edinburgh, UK",#TimelessLuxury,Positive
+452,H&M,@hm,Affordable fashion for every day.,4/29/2023,"Manchester, UK",#EverydayFashion,Positive
+453,Adidas,@adidas,Sporty and reliable.,5/22/2020,"Birmingham, UK",#Sportswear,Positive
+454,Balenciaga,@balenciaga,Bold and artistic fashion.,6/21/2021,"Glasgow, UK",#ArtisticFashion,Positive
+455,Primark,@primark,Fashion on a budget.,7/14/2022,"London, UK",#FashionBudget,Positive
+456,ASOS,@asos,Wide range of styles.,8/19/2023,"Manchester, UK",#FashionStyles,Positive
+457,Mango,@mango,Affordable and stylish.,9/19/2020,"Birmingham, UK",#AffordableStylish,Positive
+458,Topman,@topman,Limited variety in designs.,4/12/2021,"London, UK",#FashionVariety,Neutral
+459,Zara,@zaraofficial,Stylish but inconsistent quality.,6/10/2022,"Glasgow, UK",#FashionQuality,Neutral
+460,Gucci,@gucci,Premium luxury fashion.,7/15/2023,"Edinburgh, UK",#LuxuryFashion,Positive
+461,H&M,@hm,Reliable basics at affordable prices.,8/21/2020,"Manchester, UK",#BasicsAffordable,Positive
+462,Adidas,@adidas,Trusted brand for sportswear needs.,9/18/2021,"Birmingham, UK",#Sportswear,Positive
+463,Balenciaga,@balenciaga,Unique and daring designs.,11/23/2022,"Glasgow, UK",#DaringFashion,Positive
+464,Primark,@primark,Budget-friendly and trendy fashion.,3/16/2023,"London, UK",#BudgetTrendy,Positive
+465,ASOS,@asos,Convenient online shopping experience.,4/18/2020,"Manchester, UK",#OnlineShopping,Positive
+466,Mango,@mango,Stylish and affordable.,5/20/2021,"Birmingham, UK",#StylishAffordable,Positive
+467,Topman,@topman,Limited selection of formal wear.,6/23/2022,"London, UK",#FormalFashion,Neutral
+468,Zara,@zaraofficial,"Stylish options, but some quality issues.",7/12/2023,"Glasgow, UK",#FashionQualityIssues,Neutral
+469,Gucci,@gucci,Exquisite luxury fashion.,8/18/2020,"Edinburgh, UK",#LuxuryFashion,Positive
+470,H&M,@hm,Affordable fashion for all occasions.,9/21/2021,"Manchester, UK",#FashionForAll,Positive
+471,Adidas,@adidas,Trusted for athletic wear.,10/22/2022,"Birmingham, UK",#AthleticWear,Positive
+472,Balenciaga,@balenciaga,Bold and artistic fashion.,11/25/2023,"Glasgow, UK",#ArtisticFashion,Positive
+473,Primark,@primark,Affordable fashion paradise.,12/15/2020,"London, UK",#FashionParadise,Positive
+474,ASOS,@asos,Easy online shopping experience.,1/10/2021,"Manchester, UK",#OnlineShopping,Positive
+475,Mango,@mango,Stylish and affordable.,2/15/2022,"Birmingham, UK",#StylishAffordable,Positive
+476,Topman,@topman,Needs more variety in styles.,3/20/2023,"London, UK",#FashionVariety,Neutral
+477,Zara,@zaraofficial,Stylish but inconsistent quality.,4/25/2020,"Glasgow, UK",#FashionQuality,Neutral
+478,Gucci,@gucci,Timeless luxury fashion.,5/30/2021,"Edinburgh, UK",#TimelessLuxury,Positive
+479,H&M,@hm,Affordable basics at affordable prices.,6/15/2022,"Manchester, UK",#BasicsAffordable,Positive
+480,Adidas,@adidas,Trusted brand for sportswear needs.,7/10/2023,"Birmingham, UK",#Sportswear,Positive
+481,Balenciaga,@balenciaga,Unique and daring designs.,8/25/2020,"Glasgow, UK",#DaringFashion,Positive
+482,Primark,@primark,Affordable fashion paradise.,9/15/2021,"London, UK",#FashionParadise,Positive
+483,ASOS,@asos,Easy online shopping experience.,10/10/2022,"Manchester, UK",#OnlineShopping,Positive
+484,Mango,@mango,Stylish and affordable.,11/15/2023,"Birmingham, UK",#StylishAffordable,Positive
+485,Topman,@topman,Limited selection of formal wear.,12/23/2020,"London, UK",#FormalFashion,Neutral
+486,Zara,@zaraofficial,"Stylish options, but some quality issues.",1/12/2021,"Glasgow, UK",#FashionQualityIssues,Neutral
+487,Gucci,@gucci,Exquisite luxury fashion.,2/18/2022,"Edinburgh, UK",#LuxuryFashion,Positive
+488,H&M,@hm,Affordable fashion for all occasions.,3/21/2023,"Manchester, UK",#FashionForAll,Positive
+489,Adidas,@adidas,Trusted for athletic wear.,4/22/2020,"Birmingham, UK",#AthleticWear,Positive
+490,Balenciaga,@balenciaga,Bold and artistic fashion.,5/21/2021,"Glasgow, UK",#ArtisticFashion,Positive
+491,Primark,@primark,Affordable fashion paradise.,6/15/2022,"London, UK",#FashionParadise,Positive
+492,ASOS,@asos,Easy online shopping experience.,7/10/2023,"Manchester, UK",#OnlineShopping,Positive
+493,Mango,@mango,Stylish and affordable.,8/15/2020,"Birmingham, UK",#StylishAffordable,Positive
+494,Topman,@topman,Needs more variety in styles.,9/20/2021,"London, UK",#FashionVariety,Neutral
+495,Zara,@zaraofficial,Stylish but inconsistent quality.,10/12/2022,"Glasgow, UK",#FashionQuality,Neutral
+496,Gucci,@gucci,Timeless luxury fashion.,11/18/2023,"Edinburgh, UK",#TimelessLuxury,Positive
+497,H&M,@hm,Affordable basics at affordable prices.,12/21/2020,"Manchester, UK",#BasicsAffordable,Positive
+498,Adidas,@adidas,Trusted brand for sportswear needs.,1/22/2021,"Birmingham, UK",#Sportswear,Positive
+499,Balenciaga,@balenciaga,Unique and daring designs.,2/25/2022,"Glasgow, UK",#DaringFashion,Positive
+500,Primark,@primark,Affordable fashion paradise.,3/15/2023,"London, UK",#FashionParadise,Positive
+501,ASOS,@asos,Easy online shopping experience.,4/10/2020,"Manchester, UK",#OnlineShopping,Positive
+502,Mango,@mango,Stylish and affordable.,5/15/2021,"Birmingham, UK",#StylishAffordable,Positive
+503,Topman,@topman,Limited selection of formal wear.,6/23/2022,"London, UK",#FormalFashion,Neutral
+504,Zara,@zaraofficial,"Stylish options, but some quality issues.",7/12/2023,"Glasgow, UK",#FashionQualityIssues,Neutral
+505,Gucci,@gucci,Exquisite luxury fashion.,8/18/2020,"Edinburgh, UK",#LuxuryFashion,Positive
+506,H&M,@hm,Affordable fashion for all occasions.,9/21/2021,"Manchester, UK",#FashionForAll,Positive
+507,Adidas,@adidas,Trusted for athletic wear.,10/22/2022,"Birmingham, UK",#AthleticWear,Positive
+508,Balenciaga,@balenciaga,Bold and artistic fashion.,11/25/2023,"Glasgow, UK",#ArtisticFashion,Positive
+509,Primark,@primark,Affordable fashion paradise.,12/15/2020,"London, UK",#FashionParadise,Positive
+510,ASOS,@asos,Easy online shopping experience.,1/10/2021,"Manchester, UK",#OnlineShopping,Positive
+511,Mango,@mango,Stylish and affordable.,2/15/2022,"Birmingham, UK",#StylishAffordable,Positive
+512,Topman,@topman,Needs more variety in styles.,3/20/2023,"London, UK",#FashionVariety,Neutral
+513,Zara,@zaraofficial,Stylish but inconsistent quality.,4/25/2020,"Glasgow, UK",#FashionQuality,Neutral
+514,Gucci,@gucci,Timeless luxury fashion.,5/30/2021,"Edinburgh, UK",#TimelessLuxury,Positive
+515,H&M,@hm,Affordable basics at affordable prices.,6/15/2022,"Manchester, UK",#BasicsAffordable,Positive
+516,Adidas,@adidas,Trusted brand for sportswear needs.,7/10/2023,"Birmingham, UK",#Sportswear,Positive
+517,Balenciaga,@balenciaga,Unique and daring designs.,8/25/2020,"Glasgow, UK",#DaringFashion,Positive
+518,Primark,@primark,Affordable fashion paradise.,9/15/2021,"London, UK",#FashionParadise,Positive
+519,ASOS,@asos,Easy online shopping experience.,10/10/2022,"Manchester, UK",#OnlineShopping,Positive
+520,Mango,@mango,Stylish and affordable.,11/15/2023,"Birmingham, UK",#StylishAffordable,Positive
+521,Topman,@topman,Limited selection of formal wear.,12/23/2020,"London, UK",#FormalFashion,Neutral
+522,Zara,@zaraofficial,"Stylish options, but some quality issues.",1/12/2021,"Glasgow, UK",#FashionQualityIssues,Neutral
+523,Gucci,@gucci,Exquisite luxury fashion.,2/18/2022,"Edinburgh, UK",#LuxuryFashion,Positive
+524,H&M,@hm,Affordable fashion for all occasions.,3/21/2023,"Manchester, UK",#FashionForAll,Positive
+525,Adidas,@adidas,Trusted for athletic wear.,4/22/2020,"Birmingham, UK",#AthleticWear,Positive
+526,Balenciaga,@balenciaga,Bold and artistic fashion.,5/21/2021,"Glasgow, UK",#ArtisticFashion,Positive
+527,Primark,@primark,Affordable fashion paradise.,6/15/2022,"London, UK",#FashionParadise,Positive
+528,ASOS,@asos,Easy online shopping experience.,7/10/2023,"Manchester, UK",#OnlineShopping,Positive
+529,Mango,@mango,Stylish and affordable.,8/15/2020,"Birmingham, UK",#StylishAffordable,Positive
+530,Topman,@topman,Needs more variety in styles.,9/20/2021,"London, UK",#FashionVariety,Neutral
+531,Zara,@zaraofficial,Stylish but inconsistent quality.,10/12/2022,"Glasgow, UK",#FashionQuality,Neutral
+532,Gucci,@gucci,Timeless luxury fashion.,11/18/2023,"Edinburgh, UK",#TimelessLuxury,Positive
+533,H&M,@hm,Affordable basics at affordable prices.,12/21/2020,"Manchester, UK",#BasicsAffordable,Positive
+534,Adidas,@adidas,Trusted brand for sportswear needs.,1/22/2021,"Birmingham, UK",#Sportswear,Positive
+535,Balenciaga,@balenciaga,Unique and daring designs.,2/25/2022,"Glasgow, UK",#DaringFashion,Positive
+536,Primark,@primark,Affordable fashion paradise.,3/15/2023,"London, UK",#FashionParadise,Positive
+537,ASOS,@asos,Easy online shopping experience.,4/10/2020,"Manchester, UK",#OnlineShopping,Positive
+538,Mango,@mango,Stylish and affordable.,5/15/2021,"Birmingham, UK",#StylishAffordable,Positive
+539,Topman,@topman,Limited selection of formal wear.,6/23/2022,"London, UK",#FormalFashion,Neutral
+540,Zara,@zaraofficial,"Stylish options, but some quality issues.",7/12/2023,"Glasgow, UK",#FashionQualityIssues,Neutral
+541,Gucci,@gucci,Exquisite luxury fashion.,8/18/2020,"Edinburgh, UK",#LuxuryFashion,Positive
+542,H&M,@hm,Affordable fashion for all occasions.,9/21/2021,"Manchester, UK",#FashionForAll,Positive
+543,Adidas,@adidas,Trusted for athletic wear.,10/22/2022,"Birmingham, UK",#AthleticWear,Positive
+544,Balenciaga,@balenciaga,Bold and artistic fashion.,11/25/2023,"Glasgow, UK",#ArtisticFashion,Positive
+545,Primark,@primark,Affordable fashion paradise.,12/15/2020,"London, UK",#FashionParadise,Positive
+546,ASOS,@asos,Easy online shopping experience.,1/10/2021,"Manchester, UK",#OnlineShopping,Positive
+547,Mango,@mango,Stylish and affordable.,2/15/2022,"Birmingham, UK",#StylishAffordable,Positive
+548,Topman,@topman,Needs more variety in styles.,3/20/2023,"London, UK",#FashionVariety,Neutral
+549,Zara,@zaraofficial,Stylish but inconsistent quality.,4/25/2020,"Glasgow, UK",#FashionQuality,Neutral
+550,Gucci,@gucci,Timeless luxury fashion.,5/30/2021,"Edinburgh, UK",#TimelessLuxury,Positive
